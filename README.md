@@ -1,4 +1,4 @@
-DIO Desafio Projeto MySQL
+DIO | Desafio Projeto MySQL
 
 # Instruções de uso
 
